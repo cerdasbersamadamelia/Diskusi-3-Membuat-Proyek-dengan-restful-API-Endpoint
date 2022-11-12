@@ -1,4 +1,4 @@
-# Diskusi-3-Membuat-Proyek-dengan-restful-API-Endpoint
+# Diskusi 3 Membuat Proyek dengan restful API Endpoint
 Pada diskusi 3 kali ini jawablah pertanyaan berikut:
 
 Buatlah sebuah proyek restfull API seperti yang telah dipelajari pada BMP MSIM4401 Modul 3 KB 2 sehingga menghasilkan seperti gambar di bawah ini:
